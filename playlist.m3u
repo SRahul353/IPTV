@@ -7,10 +7,10 @@ http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/index.m3u8
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/star-jalsha.jpg" group-title="Indian",Star Jalsha HD
-http://kst.moonplex.net:8080/CH3/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/starJalsa/index.m3u8
 
 #EXTINF:-1 tvg-name="Zee Bangla HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/zee-bangla.jpg" group-title="Indian",Zee Bangla HD
-http://kst.moonplex.net:8080/CH4/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/ZeeBangla/index.m3u8
 
 #EXTINF:-1 tvg-name="Depto TV HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/Deepto-tv-live.png" group-title="Bangladeshi",Depto TV HD
 http://kst.moonplex.net:8080/CH5/index.m3u8

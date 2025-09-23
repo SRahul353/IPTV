@@ -1,9 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Sony MAX HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/Sony_Max.png" group-title="Indian",Sony MAX HD
-http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/SonyMax/index.m3u8
 
 #EXTINF:-1 tvg-name="T Sports HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/t-sports.jpg" group-title="Bangladeshi",T Sports HD
-http://kst.moonplex.net:8080/CH2/index.m3u8
+#http://kst.moonplex.net:8080/CH2/index.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/index.m3u8
 
 #EXTINF:-1 tvg-name="Star Jalsha HD" tvg-logo="http://kst.moonplex.net/iptv/img/logo/star-jalsha.jpg" group-title="Indian",Star Jalsha HD
 http://kst.moonplex.net:8080/CH3/index.m3u8
